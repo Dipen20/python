@@ -1,5 +1,6 @@
       #KBC game
-print("Welcome to the KBC game\n")
+Name=input("Enter your good name please:\n")
+print(f"Welcome to the KBC game {Name}\n wishing you a best of luck!")
 
 n="nile"
 m="mt everest"
