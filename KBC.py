@@ -10,9 +10,6 @@ Ze="arya bhatt"
 
 
 a=int(input("Which is longest river in the world?\n1. Missisipi         2. Amazon\n 3.Nile          4.yantze\n"))
-# class KBC():
-#        def __init__(self,n,m,A,Pm) -> None:
-#               pass
 
 if a==3:
       print("Congratulation you have won NRS.10000.\n So lets start next question for NRS.20000K.\n So here is the question:\n ")
