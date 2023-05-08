@@ -20,14 +20,6 @@ while balance>=60:
     else:
         print("Not enough money.")
 
-# class coffee_machine:
-#     def __init__(self,name,price):
-#         self.name=name
-#         self.price=price
-#     def say(self):
-#         print(f"My name is {self.name}, ")
-# a=input("Enter your name\n")
-# print(coffee_machine.self)
 
 
     
