@@ -4,12 +4,13 @@ num=random.randrange(10000,90000)
 print(num)
 user=int(input("Enter 5 digit numbers\n"))
 
-
+#if user guessed in first try: mostly it is 
 if (user==num):
     print("Great! You have guessed in first try! You are mastermind\n")
+#if user failed in then else condition 
 else:
     ctr=0
-    
+
     while (user!=num):
         ctr+=1
         count=0
