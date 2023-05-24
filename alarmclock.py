@@ -8,7 +8,7 @@ def alarm(seconds):
     time_elapsed=0
     print(CLEAR)
     while time_elapsed<seconds:
-        time.sleep(2)
+        time.sleep(1)
         time_elapsed+=1
 
         time_left=seconds-time_elapsed
